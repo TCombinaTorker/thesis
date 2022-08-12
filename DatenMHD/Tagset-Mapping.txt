@@ -1,0 +1,47 @@
+Diese Abbildung gilt für STTS-Tags (modernes Deutsch)
+-----------------------------------------------------
+APPRART -> APPR
+
+Diese Abbildungen gelten für HITS-Tags (Mittelhochdeutsch)
+----------------------------------------------------------
+ADJN -> ADJD
+ADJS -> ADJA
+AVD -> ADV
+AVNEG -> ADV
+AVG -> PWAV
+AVW -> PWAV
+APPR -> APPR
+APPO -> APPO
+CARDA -> CARD
+CARDD -> CARD
+CARDN -> CARD
+CARDS -> CARD
+DDART -> ART
+DDA -> PDAT
+DDS -> PDS
+DDN -> PDAT
+DDD -> PDAT
+DIA -> PIAT
+DIART -> ART
+DID -> PDAT
+DIN -> PDAT
+DRELS -> PRELS
+DPOSA -> PPOSAT
+DPOSN -> PPOSAT
+DPOSD -> PPOSS
+DPOSGEN -> PPOSAT
+DPOSS -> NN
+DWA -> PWAT
+DWN -> PWAT
+DWS -> PWS
+DWD -> PWS
+KO* -> KOUS
+NA -> NN
+PAVAP -> PAV
+PAVD -> PAV
+PAVG -> PAV
+PAVREL -> PWAV
+PAVW -> PWAV
+VVPS -> ADJA
+VAPS -> ADJA
+VMPS -> ADJA
